@@ -83,3 +83,25 @@ Avail aims to accelerate the unification of Web3 using its cutting edge modular 
   - [Building on the Madara stack with Avail](https://docs.availproject.org/docs/build-with-avail/Validium/madara/overview) - Avail Developer Docs
   - [Github Repo for Madara](https://github.com/madara-alliance/madara)
 
+### Tools
+
+- [Avail Explorer](https://explorer.avail.so/#/explorer) - Tool
+- [Subscan Explorer](https://avail.subscan.io/) - Tool
+- (Polkadot Telemetry)[https://telemetry.avail.so/#list/0xb91746b45e0346cc2f815a520b9c6cb4d5c0902af848db0a80f85932d2e8276a] - Tool
+- [Avail Staking Dashboard](https://staking.avail.tools/#/overview) - Tool
+  - [Video Tutorial](https://www.youtube.com/watch?v=FSn_VHI_wBE) - Tutorial
+- [Avail Bridge](https://bridge.availproject.org/) - Tool
+
+### Audits and other resources
+- [Audits](https://github.com/availproject/audits) - Avail's Audit Repository
+- [Bug Bounty Program](https://immunefi.com/bug-bounty/avail/information/) - Immunefi
+- [FAQs](https://docs.availproject.org/docs/faqs) - Avail Developer Docs
+- [Faucet](https://faucet.avail.tools/) - Tool
+
+### Socials
+
+- [Website](https://www.availproject.org/)
+- [Twitter](https://twitter.com/availproject)
+- [Github](https://github.com/availproject)
+- [Discord](https://discord.com/invite/y6fHnxZQX8)
+- [Youtube](https://www.youtube.com/@Availproject)
