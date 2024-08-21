@@ -87,7 +87,7 @@ Avail aims to accelerate the unification of Web3 using its cutting edge modular 
 
 - [Avail Explorer](https://explorer.avail.so/#/explorer) - Tool
 - [Subscan Explorer](https://avail.subscan.io/) - Tool
-- (Polkadot Telemetry)[https://telemetry.avail.so/#list/0xb91746b45e0346cc2f815a520b9c6cb4d5c0902af848db0a80f85932d2e8276a] - Tool
+- [Polkadot Telemetry](https://telemetry.avail.so/#list/0xb91746b45e0346cc2f815a520b9c6cb4d5c0902af848db0a80f85932d2e8276a) - Tool
 - [Avail Staking Dashboard](https://staking.avail.tools/#/overview) - Tool
   - [Video Tutorial](https://www.youtube.com/watch?v=FSn_VHI_wBE) - Tutorial
 - [Avail Bridge](https://bridge.availproject.org/) - Tool
