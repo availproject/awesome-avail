@@ -12,7 +12,7 @@ Avail aims to accelerate the unification of Web3 using its cutting edge modular 
 
 - [Docs](https://docs.availproject.org/) - Official Docs
 - [Build with Avail](https://docs.availproject.org/docs/build-with-avail/overview) - Official Tutorials
-- [Avail's Unification Thesis](https://docs.availproject.org/docs/build-with-avail/overview) - Blog
+- [Avail's Unification Thesis](https://blog.availproject.org/the-avail-vision-accelerating-the-unification-of-web3/) - Blog
 - [Data Availability: What Is It?](https://blog.availproject.org/data-availability-what-is-it/) - Blog
 - [A Guide to Selecting the Right Data Availability Layer](https://blog.availproject.org/a-guide-to-selecting-the-right-data-availability-layer/) - Blog
 
