@@ -92,12 +92,14 @@ Avail aims to accelerate the unification of Web3 using its cutting edge modular 
 - [Avail Staking Dashboard](https://staking.avail.tools/#/overview) - Tool
   - [Video Tutorial](https://www.youtube.com/watch?v=FSn_VHI_wBE) - Tutorial
 - [Avail Bridge](https://bridge.availproject.org/) - Tool
+- [Faucet](https://faucet.avail.tools/) - Tool
+- [Faucet](https://faucet.stakepool.dev.br/) - Tool (3rd Party - Stakepool)
 
 ### Audits and other resources
 - [Audits](https://github.com/availproject/audits) - Avail's Audit Repository
 - [Bug Bounty Program](https://immunefi.com/bug-bounty/avail/information/) - Immunefi
 - [FAQs](https://docs.availproject.org/docs/faqs) - Avail Developer Docs
-- [Faucet](https://faucet.avail.tools/) - Tool
+
 
 ### Socials
 
