@@ -12,7 +12,7 @@ Avail aims to accelerate the unification of Web3 using its cutting edge modular 
 
 - [Docs](https://docs.availproject.org/) - Official Docs
 - [Build with Avail](https://docs.availproject.org/docs/build-with-avail/overview) - Official Tutorials
-- [Avail DA Reference Paper](https://github.com/availproject/data-availability/blob/master/reference%20document/README.md) - Whitepaper
+- [Avail DA Reference Paper]([https://github.com/availproject/data-availability/blob/master/reference%20document/README.md](https://github.com/availproject/data-availability/blob/93c547ce4efce3e992b573179a8d22b3657fdcee/reference%20document/Avail%20Reference%20Paper%20v2.1%206%20Nov%202024.pdf)) - Whitepaper
 - [Avail's Unification Thesis](https://blog.availproject.org/the-avail-vision-accelerating-the-unification-of-web3/) - Blog
 - [Data Availability: What Is It?](https://blog.availproject.org/data-availability-what-is-it/) - Blog
 - [A Guide to Selecting the Right Data Availability Layer](https://blog.availproject.org/a-guide-to-selecting-the-right-data-availability-layer/) - Blog
@@ -20,14 +20,7 @@ Avail aims to accelerate the unification of Web3 using its cutting edge modular 
 ### Github Repos
 
 - [Avail](https://github.com/availproject/avail) - Avail's main repository
-- [Avail-light](https://github.com/availproject/avail-light) - Central repository for the Avail Light Clients
-- [Avail-JS](https://github.com/availproject/avail/tree/main/avail-js) - Library to connect to Avail. A polkadotjs wrapper that has additional functionality to polkadotjs to do Avail specific interactions. Interact with Avail using just JS/TS!
-  - [examples](https://github.com/availproject/avail/tree/main/avail-js/examples)
-  - [PolkadotJS API reference](https://polkadot.js.org/docs/api/start/api.rpc/)
-- [Avail-subxt](https://github.com/availproject/avail/tree/main/avail-subxt) - Facilities to use `subxt` to connect with an Avail Node.
-  - [subxt examples](https://github.com/availproject/avail/tree/main/e2e/src/tests)
-  - [subxt docs](https://docs.substrate.io/reference/command-line-tools/subxt/)
-- [Avail-Go examples](https://github.com/availproject/avail/tree/main/e2e/src/tests)
+- [Avail-light](https://github.com/availproject/avail-light) - Central repository for the Avail Light Client
 
 ### Knowledge Hub
 
@@ -41,16 +34,25 @@ Avail aims to accelerate the unification of Web3 using its cutting edge modular 
 
 ### Quick Start Guides
 
-- [How to use the Avail Testnet Faucet](https://docs.availproject.org/docs/end-user-guide/faucet) - Avail Developer Docs
-- [How to Generate an Avail Application ID](https://docs.availproject.org/docs/end-user-guide/app-id) - Avail Developer Docs
-- [How to Create and Manage an Avail Account](https://docs.availproject.org/docs/end-user-guide/accounts) - Avail Developer Docs
-- [Interact with Avail](https://docs.availproject.org/docs/build-with-avail/interacting-with-Avail) - Avail Developer Docs
+- [How to use the Avail Testnet Faucet](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da/faucet) - Avail Developer Docs
+- [How to Generate an Avail Application ID](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da/app-id) - Avail Developer Docs
+- [How to Create and Manage an Avail Account](https://docs.availproject.org/user-guides/accounts) - Avail Developer Docs
+- [Interact with Avail](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da) - Avail Developer Docs
+- [Read & write data programmatically on Avail DA](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da/read-write-on-avail) - Avail developer docs
+- [Query account balances programatically on Avail DA](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da/query-balances) - Avail developer docs
+- [Transfer funds programmatically on Avail DA](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da/transfer-balances) - Avail developer docs
 - [Stake on Avail](https://docs.availproject.org/docs/stake-on-avail/overview) - Avail Developer Docs
-- [Run a Light Client](https://docs.availproject.org/docs/operate-a-node/run-a-light-client/Overview) - Avail Developer Docs
-- [Bridge AVAIL to Ethereum using the VectorX bridge](https://docs.availproject.org/docs/end-user-guide/vectorx) - Avail Developer Docs
-- [How to use a ledger wallet on Avail DA](https://docs.availproject.org/docs/end-user-guide/ledger-avail) - Avail Developer Docs
+- [Run a Light Client](https://docs.availproject.org/docs/operate-a-node/run-a-light-client/0010-light-client) - Avail Developer Docs
+- [Bridge AVAIL to Ethereum using the VectorX bridge](https://docs.availproject.org/user-guides/vectorx) - Avail Developer Docs
+- [How to use a ledger wallet on Avail DA](https://docs.availproject.org/user-guides/ledger-avail) - Avail Developer Docs
 - [Become a Validator](https://docs.availproject.org/docs/operate-a-node/become-a-validator) - Avail Developer Docs
-- [Staking to Avail as a Nominator or by Joining a Nomination Pool](https://www.notion.so/avail-project/Staking-to-Avail-as-a-Nominator-or-by-Joining-a-Nomination-Pool-3008bd6eaa1343b3834481974c70ed3f) - Avail Developer Docs
+- [Staking to Avail as a Nominator or by Joining a Nomination Pool](https://docs.availproject.org/user-guides/staking-governance/stake-on-avail) - Avail Developer Docs
+
+### API references (languages covered: JS/TS, Rust, Go)
+
+- [Avail node API reference](https://docs.availproject.org/api-reference/avail-node-api) - Avail Developer Docs
+- [Avail light client API reference](https://docs.availproject.org/api-reference/avail-lc-api) - Avail Developer Docs
+- [Avail VectorX bridge API reference](https://docs.availproject.org/api-reference/avail-bridge-api) - Avail Developer Docs
 
 ### L2 stacks that you can utilize to build on Avail
 
