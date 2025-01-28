@@ -86,6 +86,16 @@ Avail aims to accelerate the unification of Web3 using its cutting edge modular 
   - [Building on the Madara stack with Avail](https://docs.availproject.org/docs/build-with-avail/Validium/madara/overview) - Avail Developer Docs
   - [Github Repo for Madara](https://github.com/madara-alliance/madara)
 
+### Indexers
+
+#### Subsquid
+- [Subsquid](https://docs.sqd.ai/subsquid-network/reference/networks/#substrate-based) - Mainnet
+
+#### Subquery
+- [Avail Indexer](https://github.com/availproject/avail-indexer) - Github Repo
+- [Subquery](https://explorer.subquery.network/subquery/subquery/avail-mainnet) - Mainnet
+- [Subquery](https://explorer.subquery.network/subquery/subquery/avail-turing) - Turing Testnet
+
 ### Tools
 
 - [Avail Explorer](https://explorer.avail.so/#/explorer) - Tool
