@@ -1,4 +1,4 @@
-![](./Avail Logo - Blue.svg)
+![](./avail_logo.svg)
 
 # awesome-avail
 
