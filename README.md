@@ -6,16 +6,18 @@
 
 # Avail
 
-Avail aims to accelerate the unification of Web3 using its cutting edge modular technology stack that combines data availability, aggregation, and shared security.
+Avail is the growth engine for apps to expand beyond their chain, powering a new generation of cross-chain apps. From Nexus - a production-ready stack with an API, SDK, and a plug-and-play UI component - to a verifiable DA layer, Avail gives builders everything they need to ship faster and reach further. The first apps building on Avail are already live and operating across multiple chains. We call them Liquid Apps.
 
 ### Resources
 
 - [Docs](https://docs.availproject.org/) - Official Docs
-- [Build with Avail](https://docs.availproject.org/docs/build-with-avail/overview) - Official Tutorials
-- [Avail DA Reference Paper]([https://github.com/availproject/data-availability/blob/master/reference%20document/README.md](https://github.com/availproject/data-availability/blob/93c547ce4efce3e992b573179a8d22b3657fdcee/reference%20document/Avail%20Reference%20Paper%20v2.1%206%20Nov%202024.pdf)) - Whitepaper
-- [Avail's Unification Thesis](https://blog.availproject.org/the-avail-vision-accelerating-the-unification-of-web3/) - Blog
+- [Build with Avail Nexus](https://docs.availproject.org/docs/nexus/get-started) - Official Tutorials
+- [Build with Avail DA](https://docs.availproject.org/docs/da/get-started) - Official Tutorials
+- [How Avail Nexus Works](https://blog.availproject.org/how-avail-nexus-works-simplifying-multichain-fragmentation/) - Blog
 - [Data Availability: What Is It?](https://blog.availproject.org/data-availability-what-is-it/) - Blog
 - [A Guide to Selecting the Right Data Availability Layer](https://blog.availproject.org/a-guide-to-selecting-the-right-data-availability-layer/) - Blog
+- [The Avail Vision](https://blog.availproject.org/the-avail-vision-accelerating-the-unification-of-web3/) - Blog
+- [Avail Reference Paper](https://github.com/availproject/data-availability/blob/93c547ce4efce3e992b573179a8d22b3657fdcee/reference%20document/Avail%20Reference%20Paper%20v2.1%206%20Nov%202024.pdf) - Whitepaper
 
 ### Github Repos
 
@@ -26,65 +28,38 @@ Avail aims to accelerate the unification of Web3 using its cutting edge modular 
 
 - [Avail: A Scalable Base Layer for Modular Blockchains](https://blog.availproject.org/avail-a-scalable-base-layer-for-modular-blockchains/) - Blog
 - [How does Avail help scale web3?](https://blog.availproject.org/6-ways-avail-scales-web3-foundations-for-mass-adoption/) - Blog
-- [DA Publishing Cost: zkEVM Rollup vs zkEVM Validium on Avail](https://forum.availproject.org/t/da-publishing-cost-zkevm-rollup-vs-zkevm-validium-on-avail/439/1) - Forum
-- [Avail DA’s Core Features Explained](https://blog.availproject.org/avails-core-features-explained/) - Blog
+- [Avail DA's Core Features Explained](https://blog.availproject.org/avails-core-features-explained/) - Blog
 - [Limitations of Traditional Blockchain Light Clients (part 1)](https://blog.availproject.org/the-evolution-of-light-clients-part-1/) - Blog
 - [How Avail light clients overcome the challenges of monolithic chains (part 2)](https://blog.availproject.org/avail-light-clients/) - Blog
 - [Trust Issues? Avail light clients have you covered (Part 3)](https://blog.availproject.org/light-clients-part-3/) - Blog
 
 ### Quick Start Guides
 
-- [How to use the Avail Testnet Faucet](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da/faucet) - Avail Developer Docs
-- [How to Generate an Avail Application ID](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da/app-id) - Avail Developer Docs
-- [How to Create and Manage an Avail Account](https://docs.availproject.org/user-guides/accounts) - Avail Developer Docs
-- [Interact with Avail](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da) - Avail Developer Docs
-- [Read & write data programmatically on Avail DA](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da/read-write-on-avail) - Avail developer docs
-- [Query account balances programatically on Avail DA](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da/query-balances) - Avail developer docs
-- [Transfer funds programmatically on Avail DA](https://docs.availproject.org/docs/build-with-avail/interact-with-avail-da/transfer-balances) - Avail developer docs
-- [Stake on Avail](https://docs.availproject.org/docs/stake-on-avail/overview) - Avail Developer Docs
-- [Run a Light Client](https://docs.availproject.org/docs/operate-a-node/run-a-light-client/0010-light-client) - Avail Developer Docs
-- [Bridge AVAIL to Ethereum using the VectorX bridge](https://docs.availproject.org/user-guides/vectorx) - Avail Developer Docs
-- [How to use a ledger wallet on Avail DA](https://docs.availproject.org/user-guides/ledger-avail) - Avail Developer Docs
-- [Become a Validator](https://docs.availproject.org/docs/operate-a-node/become-a-validator) - Avail Developer Docs
-- [Staking to Avail as a Nominator or by Joining a Nomination Pool](https://docs.availproject.org/user-guides/staking-governance/stake-on-avail) - Avail Developer Docs
+- [Quick Start With Avail Nexus Elements](https://docs.availproject.org/docs/nexus/nexus-ui-elements/quickstart) - Avail Developer Docs
+- [Quick Start With Avail Nexus SDK](https://docs.availproject.org/docs/nexus/nexus-sdk/quickstart) - Avail Developer Docs
+- [How to use the Avail Testnet Faucet](https://docs.availproject.org/docs/da/build/interact/faucet) - Avail Developer Docs
+- [How to Generate an Avail Application ID](https://docs.availproject.org/docs/da/build/interact/app-id) - Avail Developer Docs
+- [How to Create and Manage an Avail Account](https://docs.availproject.org/docs/da/user-guides/accounts) - Avail Developer Docs
+- [Interact with Avail](https://docs.availproject.org/docs/da/build/interact) - Avail Developer Docs
+- [Read & write data programmatically on Avail DA](https://docs.availproject.org/docs/da/build/interact/read-write-on-avail) - Avail developer docs
+- [Query account balances programatically on Avail DA](https://docs.availproject.org/docs/da/build/interact/query-balances) - Avail developer docs
+- [Transfer funds programmatically on Avail DA](https://docs.availproject.org/docs/da/build/interact/transfer-balances) - Avail developer docs
+- [Stake on Avail](https://docs.availproject.org/docs/da/user-guides/staking-governance) - Avail Developer Docs
+- [Run a Light Client](https://docs.availproject.org/docs/da/operate/run-a-light-client) - Avail Developer Docs
+- [Bridge AVAIL to Ethereum using the VectorX bridge](https://docs.availproject.org/docs/da/user-guides/bridge-avail) - Avail Developer Docs
+- [How to use a ledger wallet on Avail DA](https://docs.availproject.org/docs/da/user-guides/ledger-avail) - Avail Developer Docs
+- [Become a Validator](https://docs.availproject.org/docs/da/operate/become-a-validator) - Avail Developer Docs
+- [Staking to Avail as a Nominator or by Joining a Nomination Pool](https://docs.availproject.org/docs/da/user-guides/staking-governance/stake-on-avail) - Avail Developer Docs
 
 ### API references (languages covered: JS/TS, Rust, Go)
 
-- [Avail node API reference](https://docs.availproject.org/api-reference/avail-node-api) - Avail Developer Docs
-- [Avail light client API reference](https://docs.availproject.org/api-reference/avail-lc-api) - Avail Developer Docs
-- [Avail VectorX bridge API reference](https://docs.availproject.org/api-reference/avail-bridge-api) - Avail Developer Docs
-
-### L2 stacks that you can utilize to build on Avail
-
-- zkSync
-- Polygon
-- Starkware
-- Optimism
-- Arbitrum
-- Madara
-- For Full list of partners, visit [Ecosystem Page](https://www.availproject.org/ecosystem)
+- [Avail node API reference](https://docs.availproject.org/docs/da/api-reference/avail-node-api) - Avail Developer Docs
+- [Avail light client API reference](https://docs.availproject.org/docs/da/api-reference/avail-lc-api) - Avail Developer Docs
+- [Avail VectorX bridge API reference](https://docs.availproject.org/docs/da/api-reference/avail-bridge-api) - Avail Developer Docs
 
 ### Network Information
 
-- To get Avail's full network information, visit [Network Page](https://docs.availproject.org/docs/networks)
-
-### Rollup Stacks
-
-- [Getting Started](https://docs.availproject.org/docs/build-with-avail/overview) - Avail Developer Docs
-
-- #### Arbitrum Nitro
-  - [Building on the Arbitrum Nitro stack with Avail DA](https://docs.availproject.org/docs/build-with-avail/Optimium/arbitrum-nitro/overview) - Avail Developer Docs
-  - [Github Repo for Arbitrum Nitro](https://github.com/availproject/nitro-contracts) - Latest branch is `avail-nitro-contracts-v2-upstream-v1.2.1`
-- #### OP Stack
-  - [Building on the OP stack with Avail](https://docs.availproject.org/docs/build-with-avail/Optimium/op-stack/overview) - Avail Developer Docs
-  - [Github Repo for OP Stack](https://github.com/availproject/optimism-Alt-DA-Avail)
-  - [OP Geth repo](https://github.com/ethereum-optimism/op-geth)
-- #### Polygon zkEVM stack
-  - [Building on the Polygon zkEVM stack with Avail DA](https://docs.availproject.org/docs/build-with-avail/Validium/zkevm/overview) - Avail Developer Docs
-  - [Github Repo for Polygon zkEVM and validium](https://github.com/availproject/validium-contracts)
-- #### Madara Stack
-  - [Building on the Madara stack with Avail](https://docs.availproject.org/docs/build-with-avail/Validium/madara/overview) - Avail Developer Docs
-  - [Github Repo for Madara](https://github.com/madara-alliance/madara)
+- To get Avail's full network information, visit [Network Page](https://docs.availproject.org/docs/da/networks)
 
 ### Indexers
 
@@ -105,18 +80,17 @@ Avail aims to accelerate the unification of Web3 using its cutting edge modular 
   - [Video Tutorial](https://www.youtube.com/watch?v=FSn_VHI_wBE) - Tutorial
 - [Avail Bridge](https://bridge.availproject.org/) - Tool
 - [Faucet](https://faucet.avail.tools/) - Tool
-- [Faucet](https://faucet.stakepool.dev.br/) - Tool (3rd Party - Stakepool)
 
 ### Audits and other resources
 - [Audits](https://github.com/availproject/audits) - Avail's Audit Repository
 - [Bug Bounty Program](https://immunefi.com/bug-bounty/avail/information/) - Immunefi
-- [FAQs](https://docs.availproject.org/docs/faqs) - Avail Developer Docs
+- [FAQs](https://docs.availproject.org/docs/da/faqs) - Avail Developer Docs
 
 
 ### Socials
 
 - [Website](https://www.availproject.org/)
-- [Twitter](https://twitter.com/availproject)
+- [X](https://x.com/availproject)
 - [Github](https://github.com/availproject)
 - [Discord](https://discord.com/invite/y6fHnxZQX8)
 - [Youtube](https://www.youtube.com/@Availproject)
